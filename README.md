@@ -1,8 +1,10 @@
-# Data Collective Notes 📝
+# DataHub Collective
 
-A collection of notes on Open Data by the people and for the people!
+We are a collective who care about creating high-quality open data. We curate, publish, and maintain datasets together, and build the tooling to support that. We also just hangout and [chat about data stuff](https://discord.gg/8KvAeFV).
 
-We are a group of individuals interested in Open Data and its potential to empower communities and democratize information. Our goal is to explore the problems and potential of Open Data in our society.
+More specifically, we steward the **DataHub Commons** and work together on developing the tooling and platform to run it.
+
+*A collective for open data, by open data folks.*
 
 ## Initiatives
 
@@ -15,9 +17,9 @@ We are a group of individuals interested in Open Data and its potential to empow
 
 A collaborative initiative focused on democratizing data and empowering communities through open data solutions. The key aspects are:
 
-- **Data Collective**: Building a cooperative-like organization for data infrastructure and curation, inspired by the Mondragon Corporation model.
+- **The Collective**: Building a cooperative-like organization for data infrastructure and curation, inspired by the Mondragon Corporation model.
 - **Community Empowerment**: Providing open data to help local communities make informed decisions.
-- **Open Data Framework**: Developing protocols and tools to improve the production, sharing, consumption, and collaboration on open datasets.
+- **Open Data Framework(s)**: Developing protocols and tools to improve the production, sharing, consumption, and collaboration on open datasets.
 - **Data-Driven Insights**: Curating and creating data-informed analyses, similar to "Our World in Data" but with a more inclusive, collaborative approach.
 - **Cooperative Data Agency**: Establishing a sustainable, values-driven enterprise that offers data services with a focus on cooperation and democratization.
 - **Innovative Monetization**: Exploring new incentive structures and monetization strategies for data across communities.
