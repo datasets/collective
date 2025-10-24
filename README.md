@@ -2,7 +2,7 @@
 
 We are a collective who care about creating high-quality open data. We curate, publish, and maintain datasets together, and build the tooling to support that. We also just hangout and [chat about data stuff](https://discord.gg/8KvAeFV).
 
-More specifically, we steward the **DataHub Commons** and work together on developing the tooling and platform to run it.
+More specifically, we steward the **[[ideas/DataHub Commons|DataHub Commons]]** and work together on developing the tooling and platform to run it.
 
 *A collective for open data, by open data folks.*
 
