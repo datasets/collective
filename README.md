@@ -15,10 +15,9 @@ More specifically, we steward the **[[ideas/DataHub Commons|DataHub Commons]]** 
 
 ## Vision
 
-A collaborative initiative focused on democratizing data and empowering communities through open data solutions. The key aspects are:
+A collaborative initiative focused on democratizing data and empowering communities through open data solutions. Some aspirations are (you can't fault us for lack of ambition 😉):
 
-- **The Collective**: Building a cooperative-like organization for data infrastructure and curation, inspired by the Mondragon Corporation model.
-- **Community Empowerment**: Providing open data to help local communities make informed decisions.
+- **The Collective**: Building a cooperative-like organization for data infrastructure and curation, at its most ambitious, inspired by the Mondragon Corporation model.
 - **Open Data Framework(s)**: Developing protocols and tools to improve the production, sharing, consumption, and collaboration on open datasets.
 - **Data-Driven Insights**: Curating and creating data-informed analyses, similar to "Our World in Data" but with a more inclusive, collaborative approach.
 - **Cooperative Data Agency**: Establishing a sustainable, values-driven enterprise that offers data services with a focus on cooperation and democratization.
