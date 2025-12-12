@@ -1,7 +1,7 @@
 ---
 title: "Community Level Open Data Infrastructure"
 description: Exploring the problems and potential of Open Data as a public good.
-author: "David Gasquez"
+authors: [ "David Gasquez" ]
 date: 2024-08-10
 ---
 
