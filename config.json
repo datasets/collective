@@ -6,5 +6,6 @@
         "text": "Data Collective Notes"
     },
     "showSidebar": true,
-    "logo": "assets/logo.svg"
+    "logo": "assets/logo.svg",
+    "theme": "lessflowery"
 }
