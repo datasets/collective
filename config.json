@@ -5,10 +5,12 @@
     "nav": {
       "logo": "assets/logo.svg",
       "title": "DataHub Collective",
-      "links": {
-        "href": "https://datahub.io/",
-        "name": "DataHub"
-      }
+      "links": [
+        {
+          "href": "https://datahub.io/",
+          "name": "DataHub"
+        }
+      ]
     },
     "showSidebar": true,
     "showEditLink": true,
