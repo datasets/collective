@@ -1,11 +1,16 @@
 {
-    "title": "Data Collective Notes",
-    "description": "A collection of notes on Open Data by the people and for the people!",
-    "navbarTitle": {
+    "title": "DataHub Data Collective",
+    "description": "Open Data by and for the people!",
+    "logo": "assets/logo.svg",
+    "nav": {
         "logo": "assets/logo.svg",
-        "text": "Data Collective Notes"
+        "title": "DataHub Collective"
+        "links": {
+            "href": "https://datahub.io/"
+            "name": "DataHub"
+        }
     },
     "showSidebar": true,
-    "logo": "assets/logo.svg",
+    "showEditLink": true,
     "theme": "lessflowery"
 }
